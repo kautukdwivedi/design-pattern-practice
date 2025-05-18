@@ -1,4 +1,4 @@
-package behaviors;
+package behaviors.quack;
 
 import behaviors.interfaces.QuackBehavior;
 

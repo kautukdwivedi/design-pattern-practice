@@ -1,4 +1,4 @@
-import behaviors.FlyRocketPowered;
+import behaviors.fly.FlyRocketPowered;
 import ducks.Duck;
 import ducks.MallardDuck;
 import ducks.ModelDuck;
@@ -14,4 +14,4 @@ public class DuckSimulator {
         model.setFlyBehavior(new FlyRocketPowered());
         model.performFly();
     }
-}
+} 

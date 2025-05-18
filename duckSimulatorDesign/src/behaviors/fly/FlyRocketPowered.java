@@ -1,4 +1,4 @@
-package behaviors;
+package behaviors.fly;
 
 import behaviors.interfaces.FlyBehavior;
 
